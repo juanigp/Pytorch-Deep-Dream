@@ -10,4 +10,6 @@ https://github.com/google/deepdream/blob/master/dream.ipynb
 https://www.tensorflow.org/tutorials/generative/deepdream
 
 Some results can be seen in the 'pics' folder
+
+
 ![](https://raw.githubusercontent.com/juanigp/Pytorch-Deep-Dream/master/pics/catrip.png)
